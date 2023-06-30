@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "31401581899",
+    "project_id": "upfind-50884",
+    "storage_bucket": "upfind-50884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31401581899:android:62a2aa0701e1e88a905cce",
+        "android_client_info": {
+          "package_name": "com.example.sky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31401581899-63hg0bvjgmf9924al67hd6hrr1l9j157.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TLuqnugyNFcXhBkv_L_TEa73VZDA3hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31401581899-63hg0bvjgmf9924al67hd6hrr1l9j157.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31401581899-18m7sskh09hkuolu96la1p5a1n10fcdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Upfind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
